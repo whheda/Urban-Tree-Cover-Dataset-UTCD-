@@ -20,6 +20,12 @@ Google Drive: https://drive.google.com/file/d/1ESehycWZkHX7IiU69wba1gglMjRsUoIr/
 
 This dataset is in ENVI format, which can be read by matlab code provide in freadenvi.m.
 
+```python
+[img,shp,~]=freadenvi(img_path);
+% img=reshape(img,shp(1),shp(2),shp(3));
+% img=permute(img,[2,1,3]);
+```
+
 Besides, it can be also read by Python:
 
 ```python
