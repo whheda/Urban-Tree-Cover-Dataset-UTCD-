@@ -38,7 +38,7 @@ img = spectral.open_image(img_path).load()
 If you use any part of this dataset in your research, please cite our paper:
 ```
 @article{
-author = {Da He, Qian Shi, Xiaopin Liu, and Yanfei Zhong},
+author = {Da He, Qian Shi, Xiaopin Liu, Yanfei Zhong, Liangpei Zhang},
 journal = {International Journal of Applied Earth Observation and Geoinformation},
 title = {{Generating 2m fine-scale urban tree cover product over 34 metropolises in China based on deep global context aware sub-pixel mapping network}},
 url = {},
