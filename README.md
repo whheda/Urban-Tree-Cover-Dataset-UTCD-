@@ -13,7 +13,7 @@ As for LR image, Sentinel-2 images at 10m spatial resolution in 2019 were consid
 
 UTCD dataset is publicly available:
 
-Google Drive: https://drive.google.com/file/d/1ESehycWZkHX7IiU69wba1gglMjRsUoIr/view?usp=sharing
+Google Drive: https://drive.google.com/file/d/1VosWEC4BpNB2eUwBoPemnVx7daQ83M_9/view?usp=sharing
 
 
 # How to Use
